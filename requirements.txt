@@ -8,7 +8,7 @@ accelerate
 tensorboard
 tensorboardX
 transformers
-sentencepiece==0.1.99
+sentencepiece~=0.1.99
 ftfy
 beautifulsoup4
 protobuf==3.20.2
